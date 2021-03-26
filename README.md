@@ -1,19 +1,13 @@
 # coding-club-test
 
-## titl
+## Notes from Coding Club 2021-03-26
+[GitHub Desktop](https://desktop.github.com/)
 
-* thrththth
-* dfgdfg
-* 34
+[Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
-1. ty
-1. bf
-1. fg
+For homework try using GitHub Desktop to clone this repository to you own computer
+https://github.com/AgentschapPlantentuinMeise/iNatBioblitzes
 
-> quote
+If you install [Anaconda](https://www.anaconda.com/products/individual#Downloads) we can use it next time to run a Jupyter Notebook
 
-**hi**
 
-**hi**
-
-`goodbye`
