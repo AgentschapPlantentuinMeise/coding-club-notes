@@ -10,4 +10,7 @@ https://github.com/AgentschapPlantentuinMeise/iNatBioblitzes
 
 If you install [Anaconda](https://www.anaconda.com/products/individual#Downloads) we can use it next time to run a Jupyter Notebook
 
+### Participants' notes 
+
+Thanks for the Friday meeting. I'd love to work with Jupyter Notebook. Regards. 
 
